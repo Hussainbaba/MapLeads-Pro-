@@ -7,7 +7,7 @@ It scans business listings, identifies businesses without a listed website, and 
 I built it to make finding potential web development clients a little less manual.
 
 <!-- INSERT YOUR SCREENSHOT HERE -->
-![MapLeads UI](YOUR_SCREENSHOT_LINK_HERE.png)
+![MapLeads UI](Screenshot_20261106_173810.jpg)
 
 ## What it does
 
